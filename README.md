@@ -1,5 +1,7 @@
 # Python for Experimental Research and Analysis Workshop
 
+![00539-147397801-experimental research and analysis, empty room, cyberpunk, dark psychedelic colors, futuristic, cognition, science](https://github.com/zeyus/PyResearchWorkshop/assets/75656/f94cbca9-db0d-4960-9ade-8a27d0affe76)
+
 ## Preparation
 
 Most of what we will work with will be provided in this GitHub repository, but there are a few things you can get set up so we don't have to spend time on it during the workshop.
