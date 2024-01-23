@@ -44,4 +44,7 @@ Congrats, it's all ready to go!
 
 ## Workshop
 
-... more to come
+We will work through some examples and exercises, it's informal and you can ask questions at any time.
+
+All of the resources we need are in this repository and we will go through them together on the day,
+starting with [01_setup](./01_setup/README.md).
