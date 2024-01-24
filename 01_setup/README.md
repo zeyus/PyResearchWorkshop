@@ -1,5 +1,18 @@
 # Setup
 
+## Table of Contents
+
+- [Setup](#setup)
+  - [Table of Contents](#table-of-contents)
+  - [Preparation](#preparation)
+  - [Cloning the repository](#cloning-the-repository)
+  - [Opening the repository in VScode](#opening-the-repository-in-vscode)
+  - [Installing the VScode Python extension](#installing-the-vscode-python-extension)
+  - [Setting up the Python environment in VScode](#setting-up-the-python-environment-in-vscode)
+  - [Done!](#done)
+
+## Preparation
+
 If you've successfully followed the instructions in the main [README.md](../README.md) file, you are ready to complete the following steps.
 
 ## Cloning the repository

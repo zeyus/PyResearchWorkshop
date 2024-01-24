@@ -2,6 +2,19 @@
 
 ![00539-147397801-experimental research and analysis, empty room, cyberpunk, dark psychedelic colors, futuristic, cognition, science](https://github.com/zeyus/PyResearchWorkshop/assets/75656/f94cbca9-db0d-4960-9ade-8a27d0affe76)
 
+## Table of Contents
+
+- [Python for Experimental Research and Analysis Workshop](#python-for-experimental-research-and-analysis-workshop)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Preparation](#preparation)
+    - [Tools](#tools)
+    - [Environment Setup](#environment-setup)
+      - [Windows PC](#windows-pc)
+      - [Mac OSX / Linux](#mac-osx--linux)
+  - [Workshop](#workshop)
+  - [Resources](#resources)
+
 ## Preparation
 
 Most of what we will work with will be provided in this GitHub repository, but there are a few things you can get set up so we don't have to spend time on it during the workshop.
@@ -48,3 +61,12 @@ We will work through some examples and exercises, it's informal and you can ask 
 
 All of the resources we need are in this repository and we will go through them together on the day,
 starting with [01_setup](./01_setup/README.md).
+
+### Workshop Contents
+
+- [Setup](./01_setup/README.md)
+- [Basics](./02_basics/README.md)
+
+## Resources
+
+You can find a handy list of resources [here](./resources.md).
