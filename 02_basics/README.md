@@ -36,6 +36,6 @@ Now we can save the experiment (call it whatever you like), and run it with the 
 If it worked successfully, you should see, after clicking, some output in the "PsychoPy Runner" window that looks like this:
 ![PsychoPy Runner](./res/psychopy-runner.png)
 
-Note that we have successfully gathered some data, including the time of the mouse click, and the location of the click. By default, these will be stored in files under the `data` folder in the same folder as your experiment file.
+Note that we have successfully gathered some data, including the time of the mouse click, and the location of the click. By default, these will be stored in files under the `data` folder in the same folder as your experiment file. Feel free to take a look.
 
 ## PsychoPy Code
