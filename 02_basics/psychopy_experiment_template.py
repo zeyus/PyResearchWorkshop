@@ -231,16 +231,19 @@ def run_experiment():
             elapsed_time = trial_timer.getTime()
             # Display a fixation cross for the first 500 ms
             if elapsed_time < 0.5:
-                visual_stim.setText("+")
+                if visual_stim.text != "+":
+                    visual_stim.setText("+")
             # Display the target for 500 ms
             elif elapsed_time < 1:
-                visual_stim.setText(trial["target"])
+                if visual_stim.text != trial["target"]:
+                    visual_stim.setText(trial["target"])
                 awaiting_response = True
                 # in case a key was pressed before the target was shown
                 event.clearEvents()
             # Display a blank screen for 1000 ms
             elif elapsed_time < 2:
-                visual_stim.setText("")
+                if visual_stim.text != "":
+                    visual_stim.setText("")
             else:
                 event.clearEvents()
                 trial_done = True
