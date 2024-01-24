@@ -1,0 +1,220 @@
+6.6036 	EXP 	window1: mouseVisible = True
+6.7110 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Welcome to the experiment!', units='pix', win=Window(...), wrapWidth=1000)
+9.6969 	DATA 	Keypress: space
+9.6974 	EXP 	window1: mouseVisible = True
+9.6988 	EXP 	Created blank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40, italic=False, languageStyle='LTR', name='blank', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='pix', win=Window(...), wrapWidth=1000)
+9.6991 	EXP 	New trial (rep=0, index=0): {'condition': 'congruent', 'target': '-->', 'correct_response': 'm'}
+9.7063 	EXP 	fixation: name = 'fixation'
+9.7063 	EXP 	fixation: height = 40.0
+9.7063 	EXP 	fixation: height = 40.0
+9.7063 	EXP 	fixation: height = 40.0
+9.7063 	EXP 	fixation: text = '+'
+10.2208 	EXP 	target: name = 'target'
+10.2208 	EXP 	target: height = 40.0
+10.2208 	EXP 	target: height = 40.0
+10.2208 	EXP 	target: height = 40.0
+10.2208 	EXP 	target: text = '-->'
+10.6866 	DATA 	Keypress: m
+10.6874 	EXP 	New trial (rep=0, index=1): {'condition': 'congruent', 'target': '<--', 'correct_response': 'z'}
+10.6997 	EXP 	fixation: name = 'fixation'
+10.6997 	EXP 	fixation: height = 40.0
+10.6997 	EXP 	fixation: height = 40.0
+10.6997 	EXP 	fixation: height = 40.0
+10.6997 	EXP 	fixation: text = '+'
+10.7166 	DATA 	Keypress: z
+11.2067 	EXP 	target: name = 'target'
+11.2067 	EXP 	target: height = 40.0
+11.2067 	EXP 	target: height = 40.0
+11.2067 	EXP 	target: height = 40.0
+11.2067 	EXP 	target: text = '<--'
+11.6157 	DATA 	Keypress: z
+11.6162 	EXP 	New trial (rep=0, index=2): {'condition': 'incongruent', 'target': '<-|', 'correct_response': 'm'}
+11.6293 	EXP 	fixation: name = 'fixation'
+11.6293 	EXP 	fixation: height = 40.0
+11.6293 	EXP 	fixation: height = 40.0
+11.6293 	EXP 	fixation: height = 40.0
+11.6293 	EXP 	fixation: text = '+'
+12.1378 	EXP 	target: name = 'target'
+12.1378 	EXP 	target: height = 40.0
+12.1378 	EXP 	target: height = 40.0
+12.1378 	EXP 	target: height = 40.0
+12.1378 	EXP 	target: text = '<-|'
+12.5878 	DATA 	Keypress: m
+12.5884 	EXP 	New trial (rep=0, index=3): {'condition': 'incongruent', 'target': '|->', 'correct_response': 'z'}
+12.6019 	EXP 	fixation: name = 'fixation'
+12.6019 	EXP 	fixation: height = 40.0
+12.6019 	EXP 	fixation: height = 40.0
+12.6019 	EXP 	fixation: height = 40.0
+12.6019 	EXP 	fixation: text = '+'
+13.1081 	EXP 	target: name = 'target'
+13.1081 	EXP 	target: height = 40.0
+13.1081 	EXP 	target: height = 40.0
+13.1081 	EXP 	target: height = 40.0
+13.1081 	EXP 	target: text = '|->'
+13.4890 	DATA 	Keypress: z
+13.4896 	EXP 	New trial (rep=1, index=0): {'condition': 'incongruent', 'target': '|->', 'correct_response': 'z'}
+13.5028 	EXP 	fixation: name = 'fixation'
+13.5028 	EXP 	fixation: height = 40.0
+13.5028 	EXP 	fixation: height = 40.0
+13.5028 	EXP 	fixation: height = 40.0
+13.5028 	EXP 	fixation: text = '+'
+14.0095 	EXP 	target: name = 'target'
+14.0095 	EXP 	target: height = 40.0
+14.0095 	EXP 	target: height = 40.0
+14.0095 	EXP 	target: height = 40.0
+14.0095 	EXP 	target: text = '|->'
+14.4608 	DATA 	Keypress: z
+14.4613 	EXP 	New trial (rep=1, index=1): {'condition': 'incongruent', 'target': '<-|', 'correct_response': 'm'}
+14.4745 	EXP 	fixation: name = 'fixation'
+14.4745 	EXP 	fixation: height = 40.0
+14.4745 	EXP 	fixation: height = 40.0
+14.4745 	EXP 	fixation: height = 40.0
+14.4745 	EXP 	fixation: text = '+'
+14.9815 	EXP 	target: name = 'target'
+14.9815 	EXP 	target: height = 40.0
+14.9815 	EXP 	target: height = 40.0
+14.9815 	EXP 	target: height = 40.0
+14.9815 	EXP 	target: text = '<-|'
+15.3624 	DATA 	Keypress: m
+15.3628 	EXP 	New trial (rep=1, index=2): {'condition': 'congruent', 'target': '<--', 'correct_response': 'z'}
+15.3759 	EXP 	fixation: name = 'fixation'
+15.3759 	EXP 	fixation: height = 40.0
+15.3759 	EXP 	fixation: height = 40.0
+15.3759 	EXP 	fixation: height = 40.0
+15.3759 	EXP 	fixation: text = '+'
+15.8831 	EXP 	target: name = 'target'
+15.8831 	EXP 	target: height = 40.0
+15.8831 	EXP 	target: height = 40.0
+15.8831 	EXP 	target: height = 40.0
+15.8831 	EXP 	target: text = '<--'
+16.3899 	EXP 	blank: name = 'blank'
+16.3899 	EXP 	blank: height = 40.0
+16.3899 	EXP 	blank: height = 40.0
+16.3899 	EXP 	blank: height = 40.0
+16.3899 	EXP 	blank: text = ''
+16.4051 	DATA 	Keypress: m
+16.4057 	EXP 	New trial (rep=1, index=3): {'condition': 'congruent', 'target': '-->', 'correct_response': 'm'}
+16.4182 	EXP 	fixation: name = 'fixation'
+16.4182 	EXP 	fixation: height = 40.0
+16.4182 	EXP 	fixation: height = 40.0
+16.4182 	EXP 	fixation: height = 40.0
+16.4182 	EXP 	fixation: text = '+'
+16.4766 	DATA 	Keypress: z
+16.9252 	EXP 	target: name = 'target'
+16.9252 	EXP 	target: height = 40.0
+16.9252 	EXP 	target: height = 40.0
+16.9252 	EXP 	target: height = 40.0
+16.9252 	EXP 	target: text = '-->'
+17.3078 	DATA 	Keypress: m
+17.3204 	EXP 	New trial (rep=2, index=0): {'condition': 'congruent', 'target': '<--', 'correct_response': 'z'}
+17.3339 	EXP 	fixation: name = 'fixation'
+17.3339 	EXP 	fixation: height = 40.0
+17.3339 	EXP 	fixation: height = 40.0
+17.3339 	EXP 	fixation: height = 40.0
+17.3339 	EXP 	fixation: text = '+'
+17.8407 	EXP 	target: name = 'target'
+17.8407 	EXP 	target: height = 40.0
+17.8407 	EXP 	target: height = 40.0
+17.8407 	EXP 	target: height = 40.0
+17.8407 	EXP 	target: text = '<--'
+18.2073 	DATA 	Keypress: z
+18.2078 	EXP 	New trial (rep=2, index=1): {'condition': 'incongruent', 'target': '<-|', 'correct_response': 'm'}
+18.2211 	EXP 	fixation: name = 'fixation'
+18.2211 	EXP 	fixation: height = 40.0
+18.2211 	EXP 	fixation: height = 40.0
+18.2211 	EXP 	fixation: height = 40.0
+18.2211 	EXP 	fixation: text = '+'
+18.7282 	EXP 	target: name = 'target'
+18.7282 	EXP 	target: height = 40.0
+18.7282 	EXP 	target: height = 40.0
+18.7282 	EXP 	target: height = 40.0
+18.7282 	EXP 	target: text = '<-|'
+19.1239 	DATA 	Keypress: z
+19.1244 	EXP 	New trial (rep=2, index=2): {'condition': 'incongruent', 'target': '|->', 'correct_response': 'z'}
+19.1366 	EXP 	fixation: name = 'fixation'
+19.1366 	EXP 	fixation: height = 40.0
+19.1366 	EXP 	fixation: height = 40.0
+19.1366 	EXP 	fixation: height = 40.0
+19.1366 	EXP 	fixation: text = '+'
+19.6437 	EXP 	target: name = 'target'
+19.6437 	EXP 	target: height = 40.0
+19.6437 	EXP 	target: height = 40.0
+19.6437 	EXP 	target: height = 40.0
+19.6437 	EXP 	target: text = '|->'
+20.1506 	EXP 	blank: name = 'blank'
+20.1506 	EXP 	blank: height = 40.0
+20.1506 	EXP 	blank: height = 40.0
+20.1506 	EXP 	blank: height = 40.0
+20.1506 	EXP 	blank: text = ''
+20.1657 	DATA 	Keypress: z
+20.1662 	EXP 	New trial (rep=2, index=3): {'condition': 'congruent', 'target': '-->', 'correct_response': 'm'}
+20.1789 	EXP 	fixation: name = 'fixation'
+20.1789 	EXP 	fixation: height = 40.0
+20.1789 	EXP 	fixation: height = 40.0
+20.1789 	EXP 	fixation: height = 40.0
+20.1789 	EXP 	fixation: text = '+'
+20.6859 	EXP 	target: name = 'target'
+20.6859 	EXP 	target: height = 40.0
+20.6859 	EXP 	target: height = 40.0
+20.6859 	EXP 	target: height = 40.0
+20.6859 	EXP 	target: text = '-->'
+21.0808 	DATA 	Keypress: z
+21.0813 	EXP 	New trial (rep=3, index=0): {'condition': 'incongruent', 'target': '<-|', 'correct_response': 'm'}
+21.0946 	EXP 	fixation: name = 'fixation'
+21.0946 	EXP 	fixation: height = 40.0
+21.0946 	EXP 	fixation: height = 40.0
+21.0946 	EXP 	fixation: height = 40.0
+21.0946 	EXP 	fixation: text = '+'
+21.6014 	EXP 	target: name = 'target'
+21.6014 	EXP 	target: height = 40.0
+21.6014 	EXP 	target: height = 40.0
+21.6014 	EXP 	target: height = 40.0
+21.6014 	EXP 	target: text = '<-|'
+22.0529 	DATA 	Keypress: m
+22.0534 	EXP 	New trial (rep=3, index=1): {'condition': 'congruent', 'target': '-->', 'correct_response': 'm'}
+22.0663 	EXP 	fixation: name = 'fixation'
+22.0663 	EXP 	fixation: height = 40.0
+22.0663 	EXP 	fixation: height = 40.0
+22.0663 	EXP 	fixation: height = 40.0
+22.0663 	EXP 	fixation: text = '+'
+22.1250 	DATA 	Keypress: z
+22.5733 	EXP 	target: name = 'target'
+22.5733 	EXP 	target: height = 40.0
+22.5733 	EXP 	target: height = 40.0
+22.5733 	EXP 	target: height = 40.0
+22.5733 	EXP 	target: text = '-->'
+23.0672 	DATA 	Keypress: z
+23.0678 	EXP 	New trial (rep=3, index=2): {'condition': 'incongruent', 'target': '|->', 'correct_response': 'z'}
+23.0804 	EXP 	fixation: name = 'fixation'
+23.0804 	EXP 	fixation: height = 40.0
+23.0804 	EXP 	fixation: height = 40.0
+23.0804 	EXP 	fixation: height = 40.0
+23.0804 	EXP 	fixation: text = '+'
+23.5874 	EXP 	target: name = 'target'
+23.5874 	EXP 	target: height = 40.0
+23.5874 	EXP 	target: height = 40.0
+23.5874 	EXP 	target: height = 40.0
+23.5874 	EXP 	target: text = '|->'
+24.0406 	DATA 	Keypress: z
+24.0531 	EXP 	New trial (rep=3, index=3): {'condition': 'congruent', 'target': '<--', 'correct_response': 'z'}
+24.0664 	EXP 	fixation: name = 'fixation'
+24.0664 	EXP 	fixation: height = 40.0
+24.0664 	EXP 	fixation: height = 40.0
+24.0664 	EXP 	fixation: height = 40.0
+24.0664 	EXP 	fixation: text = '+'
+24.5733 	EXP 	target: name = 'target'
+24.5733 	EXP 	target: height = 40.0
+24.5733 	EXP 	target: height = 40.0
+24.5733 	EXP 	target: height = 40.0
+24.5733 	EXP 	target: text = '<--'
+25.0806 	EXP 	blank: name = 'blank'
+25.0806 	EXP 	blank: height = 40.0
+25.0806 	EXP 	blank: height = 40.0
+25.0806 	EXP 	blank: height = 40.0
+25.0806 	EXP 	blank: text = ''
+25.1796 	DATA 	Keypress: z
+25.1854 	INFO 	saved wide-format data to data/data_1706134186.csv
+25.1856 	EXP 	window1: mouseVisible = True
+25.2019 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, draggable=False, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=40.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Thank you for participating!', units='pix', win=Window(...), wrapWidth=1000)
+25.8748 	DATA 	Keypress: space
+25.9606 	EXP 	window1: mouseVisible = True

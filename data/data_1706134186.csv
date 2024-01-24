@@ -1,0 +1,17 @@
+﻿participant,TrialNumber,condition,target,correct_response,ran,order,response,response_time,correct
+fff,1,congruent,-->,m,1.0,0.0,m,0.987733100017067,True
+fff,2,congruent,<--,z,1.0,1.0,z,0.9284329999936745,True
+fff,3,incongruent,<-|,m,1.0,2.0,m,0.9717265000217594,True
+fff,4,incongruent,|->,z,1.0,3.0,z,0.9007953000254929,True
+fff,5,incongruent,|->,z,1.0,4.0,z,0.9713391999830492,True
+fff,6,incongruent,<-|,m,1.0,5.0,m,0.9011197999934666,True
+fff,7,congruent,<--,z,1.0,6.0,m,1.042393899988383,False
+fff,8,congruent,-->,m,1.0,7.0,m,0.9142859000130557,True
+fff,9,congruent,<--,z,1.0,8.0,z,0.8870318999979645,True
+fff,10,incongruent,<-|,m,1.0,9.0,z,0.9161698000389151,False
+fff,11,incongruent,|->,z,1.0,10.0,z,1.0414003999903798,True
+fff,12,congruent,-->,m,1.0,11.0,z,0.9146839000168256,False
+fff,13,incongruent,<-|,m,1.0,12.0,m,0.971696000022348,True
+fff,14,congruent,-->,m,1.0,13.0,z,1.0139114999910817,False
+fff,15,incongruent,|->,z,1.0,14.0,z,0.9849800000083633,True
+fff,16,congruent,<--,z,1.0,15.0,z,1.1266223000129685,True
