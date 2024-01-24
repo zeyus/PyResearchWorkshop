@@ -59,6 +59,12 @@ There are many ways to run a script from within VSCode, but for now let's use th
 * You should see some information about your Python environment printed in the terminal window, it should look like this:
 [![setup_information.py output](./res/output-setup_information.png)](./res/output-setup_information.png)
 
+## Upgrading PsychoPy
+
+For some reason, the version of PsychoPy that is installed by default is not the latest version. We can upgrade it to the latest version by running the following command in the terminal:
+
+* `pip install psychopy --upgrade`
+
 ## Done!
 
 You're all set up and ready to go!
