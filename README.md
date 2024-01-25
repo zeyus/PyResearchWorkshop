@@ -66,6 +66,7 @@ starting with [01_setup](./01_setup/README.md).
 
 - [Setup](./01_setup/README.md)
 - [Basics](./02_basics/README.md)
+- [Stimuli](./03_Stimuli/README.md)
 
 ## Resources
 
