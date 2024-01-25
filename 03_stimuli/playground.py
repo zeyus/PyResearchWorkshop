@@ -186,10 +186,12 @@ sound_stim = sound.Sound(
 # Play the sound
 sound_stim.play()
 # Wait for the sound to finish, or wait for spacebar to be pressed
+clock = core.Clock()
 while not sound_stim.isFinished:  # might be a bug, the status doesn't change on windows
+
     win.flip()
     # Check for a spacebar press
-    if event.getKeys(keyList=["space"]):
+    if event.getKeys(keyList=["space"]) or clock.getTime() > 0.5:
         # Stop the sound
         sound_stim.stop()
         # exit the loop
