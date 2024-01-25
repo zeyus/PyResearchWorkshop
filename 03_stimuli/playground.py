@@ -296,6 +296,11 @@ while True:
     pressed_buttons = mouse.getPressed()
     # Set the text to the pressed buttons
     buttons.text = f"Pressed buttons: {pressed_buttons}"
+    clicked_in_btn_text = mouse.isPressedIn(buttons)
+    if clicked_in_btn_text:
+        buttons.color = "red"
+    else:
+        buttons.color = "white"
     # Flip the window to show the stimulus
     win.flip()
     # Check if the escape key was pressed
