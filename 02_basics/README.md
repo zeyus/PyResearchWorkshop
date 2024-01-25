@@ -39,3 +39,9 @@ If it worked successfully, you should see, after clicking, some output in the "P
 Note that we have successfully gathered some data, including the time of the mouse click, and the location of the click. By default, these will be stored in files under the `data` folder in the same folder as your experiment file. Feel free to take a look.
 
 ## PsychoPy Code
+
+Now let's take a look at how we can make a full experiment using code. Open up the file [`02_basics/psychopy_experiment_template.py`](./psychopy_experiment_template.py) in VSCode and follow along with the comments in the file. This will take a little while to work through together, but it has the entire structure of a PsychoPy experiment, so it is worth taking the time to understand it.
+
+## PsychoPy Code - Practice
+
+Now we can move on to different stimuli and response types. Let's go to the final section, [`Stimuli`](../03_stimuli/README.md).
