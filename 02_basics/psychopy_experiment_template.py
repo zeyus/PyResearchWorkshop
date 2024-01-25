@@ -11,9 +11,6 @@ prefs.hardware["highDPI"] = True
 prefs.hardware["audioLib"] = ["PTB", "sounddevice", "pyo", "pygame"] # Recommended
 prefs.saveUserPrefs()
 
-
-import sys  # inbuilt python module for interacting with the interpreter (python itself)
-import platform  # inbuilt python module for getting information about the operating system
 from psychopy import visual, core, event, data, gui, logging, clock, monitors  # psychopy modules for running an experiment
 
 

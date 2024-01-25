@@ -54,8 +54,8 @@ There are many ways to run a script from within VSCode, but for now let's use th
 * Click on the `Terminal` menu at the top of the VSCode window
 * Click on `New Terminal`
 * You should see a new terminal window open at the bottom of the VSCode window
-* (*Optional, in case you don't see `(pyworkshop)`*) In the terminal window, type `mamba activate pyworkshop` and press enter
-* Now type `python setup_information.py` and press enter
+* (*Optional, in case you don't see `(pyworkshop)`*) In the terminal window, type `conda activate pyworkshop` and press enter
+* Now type `python 01_setup/setup_information.py` and press enter
 * You should see some information about your Python environment printed in the terminal window, it should look like this:
 [![setup_information.py output](./res/output-setup_information.png)](./res/output-setup_information.png)
 
